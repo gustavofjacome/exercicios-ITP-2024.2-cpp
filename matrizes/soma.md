@@ -1,7 +1,7 @@
 # Exercício: Soma de Matrizes  
 
 ## Enunciado  
-![Enunciado - Soma de Matrizes](C:/Users/gusta/Documents/GitHub/exercicios-ITP-2024.2-cpp/matrizes/soma_matriz.png)  
+![soma_matriz](https://github.com/user-attachments/assets/f74713cc-4f63-46b5-a2d7-7d0e85f0a977) 
 
 ## Solução em C++  
 ```cpp
