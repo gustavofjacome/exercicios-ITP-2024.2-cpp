@@ -1,6 +1,6 @@
 # Introdução às Técnicas de Programação - 2024.2  
 ### Linguagem: C++  
-**Professor:** André  
+**Professor:** André Campos  
 **Curso:** Tecnologia da Informação - UFRN  
 **Departamento:** DIMAP  
 
@@ -9,10 +9,10 @@ Este repositório foi criado para organizar e armazenar todos os exercícios des
 
 ## Estrutura do Repositório  
 - **Exercícios:**  
-  Contém os exercícios propostos durante as aulas, separados por temas ou semanas.  
+  Contém os exercícios propostos durante as aulas.  
  
 - **Projetos:**  
-  Projetos maiores desenvolvidos ao longo da disciplina, se aplicável.  
+  Projetos maiores desenvolvidos ao longo da disciplina.  
 
 ## Objetivo  
 Facilitar o acompanhamento do aprendizado e servir como referência futura para os tópicos estudados na disciplina.
